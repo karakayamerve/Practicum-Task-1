@@ -1,0 +1,33 @@
+.searchInputContainer{
+    background-color: #EEEEEE;
+    width: 90%;
+}
+.linkInputContainer{
+    width: 90%;
+    height: 84px;
+}
+.linkBox{
+    text-align: center;
+    float: left;
+    height: 84px;
+}
+.firstBox{
+    font-size: 16px;
+    width: 37%;
+    background-color:#7EE5DA;
+    margin-right: 2px;
+}
+.secondBox{
+    font-size: 13px;
+    width: 22%;
+    background-color:#70CCC2;
+    margin-right: 2px;
+
+
+}
+.thirdBox{
+    font-size: 13px;
+    width: 40.5%;
+    background-color:#62B3AA;
+
+}
